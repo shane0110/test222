@@ -3,4 +3,10 @@
     height: 100px;
     border-radius: 50%;
     background-color: #931313;
+    display: flex;
+}
+.test2{
+    width: 200ox;
+    height: 300px;
+    background-color: #584545;
 }
